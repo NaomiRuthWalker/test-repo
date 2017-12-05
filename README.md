@@ -1,4 +1,6 @@
 # test-repo
 CMMID example
 
-Naomi test
+Naomi testNaomi test
+=======
+Hi Naomi - this is almost fun!
